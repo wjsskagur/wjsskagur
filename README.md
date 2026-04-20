@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Backend Developer 전남혁
 
-<!--
-**wjsskagur/wjsskagur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 장애율 80% 감소 | DB 성능 50% 개선 | 매출 손실 90% 감소
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Portfolio
+
+👉 https://github.com/wjsskagur/backend-portfolio
+
+---
+
+## 🛠 Tech Stack
+
+Java | Spring Boot | PHP | Python | Kotlin  
+AWS | Docker | MySQL | Redis
+
+---
+
+## 📫 Contact
+
+- Blog: https://dev-log.tistory.com/
