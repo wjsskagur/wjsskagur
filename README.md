@@ -19,4 +19,5 @@ AWS | Docker | MySQL | Redis
 
 ## 📫 Contact
 
+- Email: all_step@naver.com
 - Blog: https://dev-log.tistory.com/
